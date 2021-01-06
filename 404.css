@@ -1,0 +1,22 @@
+  
+header{
+  background-color: white
+}
+
+body{
+  background-color: lightgray
+}
+
+h1{
+  font-family: 'Comfortaa', cursive;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 60px;
+}
+
+p{
+  font-family: 'Gothic A1', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}

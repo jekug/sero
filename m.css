@@ -1,0 +1,138 @@
+body{
+  background-color: white
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.gsc-control-cse
+{
+    padding:0px !important;
+    border-width:0px !important;
+}
+
+form.gsc-search-box,table.gsc-search-box
+{
+    margin-bottom:0px !important;
+}
+
+.gsc-search-box .gsc-input
+{
+    padding:0px 4px 0px 6px !important;
+}
+
+#gsc-iw-id1
+{
+        height: auto !important;
+        padding: 0px !important;
+        border-width: 0px !important;
+        box-shadow:none !important;
+}
+
+#gs_tti50
+{
+    padding:0px !important;
+}
+
+#gsc-i-id1
+{
+    height:33px !important;
+    padding:0px !important;
+    background:none !important;
+    text-indent:0px !important;
+}
+
+.gsib_b
+{
+    display:none;
+}
+
+
+.gsc-branding
+{
+    display:none !important;
+}
+
+.gsc-control-cse,#gsc-iw-id1
+{
+    background-color:transparent !important;
+}
+
+.gsib_b
+{
+    display:none;
+}
+
+.gsc-branding
+{
+    display:none !important;
+}
+
+.gsc-control-cse,#gsc-iw-id1
+{
+    background-color:transparent !important;
+}
+
+#search-box
+{
+    width:300px;
+    height: 33px;
+    margin:0 auto;
+    background-color: white;
+    padding: 3px;
+    border: 2px solid white;
+    border-radius: 0px;
+}
+
+#gsc-i-id1
+{
+    color: black;
+}
+
+button.gsc-search-button
+{
+    padding:0px !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    border-radius: 0px !important;
+}
+
+.gs-title {
+font-family: 'Gothic A1', sans-serif;
+}
+
+.gs-snippet{
+ font-family: 'Gothic A1', sans-serif;
+}
+
+h1{
+  font-family: 'Gothic A1', sans-serif;
+}
+
+h2{
+  font-family: 'Gothic A1', sans-serif;
+}
+
+h3{
+  font-family: 'Gothic A1', sans-serif;
+}
+
+h4{
+  font-family: 'Gothic A1', sans-serif;
+}
+
+h5{
+  font-family: 'Gothic A1', sans-serif;
+}
+
+h6{
+  font-family: 'Gothic A1', sans-serif;
+}
+
+h7{
+  font-family: 'Gothic A1', sans-serif;
+}
+
+p{
+  font-family: 'Gothic A1', sans-serif;
+}
